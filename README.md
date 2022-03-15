@@ -10,4 +10,4 @@
 
 - 📫 How to reach me **okarin1024@gmail.com**
 
-<script src="https://gist.github.com/Okarin1/5e05ccfc42cc687a1630b590d42313b3.js"></script>
+

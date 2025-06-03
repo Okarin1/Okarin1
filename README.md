@@ -4,11 +4,7 @@
 
 - 🌱 I’m currently learning **Vue.js, JavaScript, Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/okarin1](https://github.com/okarin1)
-
-- 💬 Ask me about **Vue.js, Python**
-
-- 📫 How to reach me **okarin1024@gmail.com**
+- 👨‍💻 All of my projects at [https://github.com/okarin1](https://github.com/okarin1)
 
 <!--START_SECTION:waka-->
 
